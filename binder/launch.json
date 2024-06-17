@@ -1,0 +1,10 @@
+{
+  "binder": {
+    "options": {
+      "jupyter": {
+        "default_url": "/tree/my-manim-project/" 
+        # Set the default path to your main project directory
+      }
+    }
+  }
+}
