@@ -1,1 +1,4 @@
 manim
+numpy
+matplotlib
+# ... other packages
