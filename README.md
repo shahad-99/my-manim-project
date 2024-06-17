@@ -1,1 +1,3 @@
-# my-manim-project
+# manim project
+
+> for creating animation using manim
