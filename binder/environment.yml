@@ -1,5 +1,4 @@
- ```yaml
- name: my-manim-env
+name: my-manim-env
  channels:
    - default
    - conda-forge
@@ -9,4 +8,3 @@
      - manim
      - numpy
      - matplotlib
- ```
