@@ -1,0 +1,6 @@
+image: docker://manim-binder 
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - -r requirements.txt 
